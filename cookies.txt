@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cracktheclue3.info	TRUE	/	FALSE	1999999999	crumb	BeSIoLUgBqamNzIwMDMxNzE1MDA3NzY2ODI1NDM4NTNjZDMyNGNm
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	V7nrW1jZnGY72z7Y0xZiQySc40lv9vjGqKA0_vDHQ5g-1675653538-0-AVkwPNwLLDYnnQKoIRNj7/ytHlFxxu9hi9lfV3/fDOWETva/7GgBHnWnf9IsT4enhNlkr1WRMT95QTabSfl9qX0=
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+

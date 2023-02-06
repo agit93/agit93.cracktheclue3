@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 Feb 2023 21:14:52 at https://www.cracktheclue3.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cracktheclue3.info/ -O1 "C:\Users\manwe\Desktop\CTC3\website\cracktheclue3.info" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:19:39	Error: 	"Bad Request" (400) at link https://www.cracktheclue3.info/"https://www.youtube.com/embed/l99fQ_dlhGY?feature=oembed\%22 (from https://www.cracktheclue3.info/)
+21:19:39	Error: 	"Not Found" (404) at link https://www.cracktheclue3.info/"https://www.youtube.com/embed/l99fQ_dlhGY?feature=oembed%22 (from https://www.cracktheclue3.info/)
+21:19:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+21:19:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+21:19:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/commerce-checkout-2aa9f799c8d1c2428bc88-min.en-US.js
+21:21:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/error-dark.png
+21:21:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+21:21:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/play-button.png
+21:21:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+21:21:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+21:21:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+21:21:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+21:21:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+21:21:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+21:21:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+21:21:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+21:21:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+21:21:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+21:21:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+21:21:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+21:21:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 48 seconds : 130 links scanned, 153 files written (127381132 bytes overall) [87649145 bytes received at 214826 bytes/sec], 28971516 bytes transferred using HTTP compression in 43 files, ratio 43%, 1.5 requests per connection
+(2 errors, 19 warnings, 0 messages)
